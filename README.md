@@ -1,7 +1,7 @@
 # bluetoothapp
 
 Flutter simple app using MethodChannel and Native Code to check bluetooth status 
-and activate it
+and enable it
 Since i dont have an IPhone i could not test it on IOS, but i think it will work with no problem...
 
 ## Getting Started
